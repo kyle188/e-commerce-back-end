@@ -36,7 +36,7 @@ type: npm run seed.
 
 type: npm start
 
-<iframe src="https://drive.google.com/file/d/1zOgX87epNEWQp-P5QIUOrkJa-8QhI76b/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/1zOgX87epNEWQp-P5QIUOrkJa-8QhI76b/view
 
 ## License
 
